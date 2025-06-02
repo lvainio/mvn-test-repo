@@ -29,10 +29,10 @@ public class AppTest
     }
 
     /**
-     * Rigourous Test :-)
+     * Amazing test!
      */
     public void testApp()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
 }
